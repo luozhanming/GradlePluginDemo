@@ -1,0 +1,3 @@
+rootProject.name = "GradleApp"
+include ':app'
+include ':lib'
